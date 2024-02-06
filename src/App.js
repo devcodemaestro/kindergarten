@@ -210,7 +210,8 @@ function App() {
             path="album"
             element={
               <Suspense fallback={<Loading />}>
-                <ContentLayout />
+                {" "}
+                <ContentLayout />{" "}
               </Suspense>
             }
           >
@@ -219,7 +220,8 @@ function App() {
               index
               element={
                 <Suspense fallback={<Loading />}>
-                  <Album />
+                  {" "}
+                  <Album />{" "}
                 </Suspense>
               }
             />
@@ -228,7 +230,8 @@ function App() {
               path="details/:pno"
               element={
                 <Suspense fallback={<Loading />}>
-                  <AlbumDetails />
+                  {" "}
+                  <AlbumDetails />{" "}
                 </Suspense>
               }
             />
@@ -237,7 +240,8 @@ function App() {
               path="write"
               element={
                 <Suspense fallback={<Loading />}>
-                  <AlbumWrite />
+                  {" "}
+                  <AlbumWrite />{" "}
                 </Suspense>
               }
             />
@@ -246,7 +250,8 @@ function App() {
               path="modify/:pno"
               element={
                 <Suspense fallback={<Loading />}>
-                  <AlbumModify />
+                  {" "}
+                  <AlbumModify />{" "}
                 </Suspense>
               }
             />
@@ -256,7 +261,8 @@ function App() {
             path="notice"
             element={
               <Suspense fallback={<Loading />}>
-                <ContentLayout />
+                {" "}
+                <ContentLayout />{" "}
               </Suspense>
             }
           >
@@ -264,7 +270,8 @@ function App() {
               index
               element={
                 <Suspense fallback={<Loading />}>
-                  <NoticeList />
+                  {" "}
+                  <NoticeList />{" "}
                 </Suspense>
               }
             />
@@ -272,7 +279,8 @@ function App() {
               path="write"
               element={
                 <Suspense fallback={<Loading />}>
-                  <NoticeWrite />
+                  {" "}
+                  <NoticeWrite />{" "}
                 </Suspense>
               }
             />
@@ -280,7 +288,8 @@ function App() {
               path="details/:tno"
               element={
                 <Suspense fallback={<Loading />}>
-                  <NoticeDetails />
+                  {" "}
+                  <NoticeDetails />{" "}
                 </Suspense>
               }
             />
@@ -288,18 +297,19 @@ function App() {
               path="modify/:tno"
               element={
                 <Suspense fallback={<Loading />}>
-                  <NoticeModify />
+                  {" "}
+                  <NoticeModify />{" "}
                 </Suspense>
               }
             />
           </Route>
           {/* 관리자 레이아웃*/}
-
           <Route
             path="admin"
             element={
               <Suspense fallback={<Loading />}>
-                <ContentLayout />
+                {" "}
+                <ContentLayout />{" "}
               </Suspense>
             }
           >
@@ -308,7 +318,8 @@ function App() {
               index
               element={
                 <Suspense fallback={<Loading />}>
-                  <GuardianList />
+                  {" "}
+                  <GuardianList />{" "}
                 </Suspense>
               }
             />
@@ -317,7 +328,8 @@ function App() {
               path="student"
               element={
                 <Suspense fallback={<Loading />}>
-                  <StudList />
+                  {" "}
+                  <StudList />{" "}
                 </Suspense>
               }
             />
@@ -326,37 +338,38 @@ function App() {
               path="student/detailsform"
               element={
                 <Suspense fallback={<Loading />}>
-                  <StudDetailsForm />
+                  {" "}
+                  <StudDetailsForm />{" "}
                 </Suspense>
               }
             />
-
             {/* 원아관리 상세정보입력*/}
             <Route
               path="student/details"
               element={
                 <Suspense fallback={<Loading />}>
-                  <StudDetails />
+                  {" "}
+                  <StudDetails />{" "}
                 </Suspense>
               }
             />
-
             {/* 원생 등록 */}
             <Route
               path="student/create"
               element={
                 <Suspense fallback={<Loading />}>
-                  <StudCreate />
+                  {" "}
+                  <StudCreate />{" "}
                 </Suspense>
               }
             />
-
             {/* 원생 수정 */}
             <Route
               path="student/modify"
               element={
                 <Suspense fallback={<Loading />}>
-                  <StudModify />
+                  {" "}
+                  <StudModify />{" "}
                 </Suspense>
               }
             />
@@ -366,7 +379,8 @@ function App() {
             path="ind"
             element={
               <Suspense fallback={<Loading />}>
-                <ContentLayout />
+                {" "}
+                <ContentLayout />{" "}
               </Suspense>
             }
           >
@@ -374,7 +388,8 @@ function App() {
               index
               element={
                 <Suspense fallback={<Loading />}>
-                  <IndivNotiList />
+                  {" "}
+                  <IndivNotiList />{" "}
                 </Suspense>
               }
             />
@@ -382,7 +397,8 @@ function App() {
               path="write"
               element={
                 <Suspense fallback={<Loading />}>
-                  <IndivNotiWrite />
+                  {" "}
+                  <IndivNotiWrite />{" "}
                 </Suspense>
               }
             />
@@ -390,6 +406,7 @@ function App() {
               path="details/:tno"
               element={
                 <Suspense fallback={<Loading />}>
+                  {" "}
                   <IndivNotidetails />
                 </Suspense>
               }
