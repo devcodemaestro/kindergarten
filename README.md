@@ -1,8 +1,8 @@
-![alt text](image.png)
+![alt text](src/assets/image.png)
 
-![alt text](image-1.png)
+![alt text](src/assets/image-1.png)
 
-![alt text](image-2.png)
+![alt text](src/assets/image-2.png)
 
 ### 버스를 누르게 되면 프로젝트에 참여한 팀원들의 깃허브에 접근할 수 있다 <br>
 
@@ -56,9 +56,9 @@
   원아를 연결할 수 있도록 하였다.
   <br>
 
-![alt text](image-3.png)
+![alt text](src/assets/image-3.png)
 
-![alt text](image-4.png)
+![alt text](src/assets/image-4.png)
 
 ### 2. 원아와 연결된 보호자들
 
@@ -73,7 +73,7 @@
   따로 접근을 원할 경우를 생각해 연결끊기가 계정 삭제로 이어지지 않게 하였다.)
   <br>
 
-![alt text](image-6.png)
+![alt text](src/assets/image-6.png)
 
 ### 3. 소통은 알림장으로
 
@@ -85,7 +85,7 @@
 - 부모님과 선생님 양측 다 알림장 작성이 가능하며 긴급표시체크도 할 수 있다.
   <br>
 
-![alt text](image-7.png)
+![alt text](src/assets/image-7.png)
 
 ### 4. 아이들에게 성적보단 칭찬카드를!
 
@@ -102,9 +102,9 @@
   조회하여 보여주었다.
   <br>
 
-![alt text](image-8.png)
+![alt text](src/assets/image-8.png)
 
-![alt text](image-9.png)
+![alt text](src/assets/image-9.png)
 
 ### 6. 활동 앨범으로 우리 아이들의 일상 살펴보기
 
@@ -116,7 +116,7 @@
 - 댓글 작성도 가능하게 하였다.
   <br>
 
-![alt text](image-10.png)
+![alt text](src/assets/image-10.png)
 
 ### 7. 전체공지는 유치원 소식 게시판에서!
 
@@ -128,7 +128,7 @@
   댓글 기능은 따로 넣지 않았다.
   <br>
 
-![alt text](image-11.png)
+![alt text](src/assets/image-11.png)
 <br>
 <br>
 
