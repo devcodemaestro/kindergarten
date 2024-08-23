@@ -136,15 +136,15 @@
 
 ### 🎥 시연 영상
 
-[2차 시연영상 바로가기](https://youtu.be/SdolCKqjZKw) 👈
+[2차 시연영상 바로가기](https://youtu.be/SdolCKqjZKw) 👈  
 [3차 시연영상 바로가기](https://youtu.be/bYq38cG8pIk) 👈
 <br />
 <br />
 
 ### 📂 프로젝트 정보
 
-[팀노션 바로가기](https://alert-stomach-4e6.notion.site/2-3-f77ee2e63bbc41ee8667735ac3a8b81f) 👈
-[디자인 바로가기](https://www.figma.com/design/gIZngWcEB3WWjHjJ1UmXx7/2%2C3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%96%A1%EC%9E%8E%EC%9C%A0%EC%B9%98%EC%9B%90?node-id=579-1919&t=KhIIaacedtQX7fz4-0) 👈
+[팀노션 바로가기](https://alert-stomach-4e6.notion.site/2-3-f77ee2e63bbc41ee8667735ac3a8b81f) 👈  
+[디자인 바로가기](https://www.figma.com/design/gIZngWcEB3WWjHjJ1UmXx7/2%2C3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%96%A1%EC%9E%8E%EC%9C%A0%EC%B9%98%EC%9B%90?node-id=579-1919&t=KhIIaacedtQX7fz4-0) 👈  
 [PPT 바로가기](https://www.canva.com/design/DAF_L45HXSk/qaMc76qKsI1uzQs_9YhGkw/view) 👈
 
 <br>
@@ -152,13 +152,13 @@
 
 ### 👪 개발 팀 소개
 
-- 이상재(2차 팀장) : 총괄, 깃헙 관리, 폴더구조 및 코딩 컨벤션 세팅, 활동 앨범, 추억 앨범 (리스트, 상세, 등록, 수정, 삭제)
+- 김도현(3차 팀장) : 요구사항명세서, 유치원 소식(리스트, 상세, 등록, 수정, 삭제), 알림장 상세, 등록, 수정
 - 김소미 : 디자인, 화면상세설계서, 메인, 로그인, 회원가입, 마이페이지, 유치원소개, 육아정보, 알림장 리스트, 만든사람들, 전체 페이지 반응형
 - 도선경 : 관리자 (학부모 관리, 원생 관리, 선생님 관리), Notion 정리, 회의록, canva
-- 김도현(3차 팀장) : 요구사항명세서, 유치원 소식(리스트, 상세, 등록, 수정, 삭제), 알림장 상세, 등록, 수정
+- 이상재(2차 팀장) : 총괄, 깃헙 관리, 폴더구조 및 코딩 컨벤션 세팅, 활동 앨범, 추억 앨범 (리스트, 상세, 등록, 수정, 삭제)
 
-    <br/>
-    <br/>
+<br/>
+<br/>
 
 ### 🛠 기술 스택
 
